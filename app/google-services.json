@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "436875683586",
+    "firebase_url": "https://phogauss-a9bd0.firebaseio.com",
+    "project_id": "phogauss-a9bd0",
+    "storage_bucket": "phogauss-a9bd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436875683586:android:a47ba0806fcb8db5b1041b",
+        "android_client_info": {
+          "package_name": "com.example.phogauss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436875683586-nicaupdacuecm4hjhvobntjc178andh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhlug_quUprNiHSUBJ-YikSbKtcMQwXUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436875683586-nicaupdacuecm4hjhvobntjc178andh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
